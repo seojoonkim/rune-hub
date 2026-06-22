@@ -1,0 +1,19 @@
+{
+  "name": "hermes-tweet",
+  "displayName": "Hermes Tweet",
+  "description": "Hermes Agent plugin package for X/Twitter exploration, public reads, and approval-gated write workflows.",
+  "vendor": "Xquik-dev",
+  "emoji": "💬",
+  "tagline": "Explore, read, and approve X/Twitter actions through Hermes Agent.",
+  "category": "marketing",
+  "version": "0.1.6",
+  "verified": false,
+  "docsUrl": "https://github.com/Xquik-dev/hermes-tweet",
+  "downloads": 0,
+  "stars": 0,
+  "skills": [
+    "hermes-tweet-explore",
+    "hermes-tweet-read",
+    "hermes-tweet-action"
+  ]
+}
