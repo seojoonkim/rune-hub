@@ -3,7 +3,7 @@
   "displayName": "Hermes Tweet",
   "description": "Hermes Agent plugin package for X/Twitter exploration, public reads, and approval-gated write workflows.",
   "vendor": "Xquik-dev",
-  "emoji": "H",
+  "emoji": "💬",
   "tagline": "Explore, read, and approve X/Twitter actions through Hermes Agent.",
   "category": "marketing",
   "version": "0.1.6",
