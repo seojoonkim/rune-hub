@@ -1,0 +1,17 @@
+{
+  "name": "xquik-follower-scraper",
+  "displayName": "Xquik X Follower Scraper",
+  "description": "Collect bounded public X followers, following, list members, community members, and audience overlap through an Apify Actor.",
+  "vendor": "Xquik",
+  "emoji": "👥",
+  "tagline": "Research public X audiences while preserving target attribution.",
+  "category": "data",
+  "version": "1.0.0",
+  "verified": false,
+  "docsUrl": "https://apify.com/xquik/x-follower-scraper",
+  "downloads": 0,
+  "stars": 0,
+  "skills": [
+    "xquik-audience-research"
+  ]
+}
