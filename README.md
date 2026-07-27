@@ -6,8 +6,8 @@ Open-source registry of composable AI skill graphs (Runes). Browse, build, and s
 
 ```
 rune-hub/
-├── skill-packages/   # 139 service bundles (Gmail, Slack, ...) — SKILL.json
-├── skills/           # 228 atomic operations (gmail-fetch, slack-post, ...) — SKILL.md
+├── skill-packages/   # 141 service bundles (Gmail, Slack, ...): SKILL.json
+├── skills/           # 230 atomic operations (gmail-fetch, slack-post, ...): SKILL.md
 ├── runes/            # 65 skill graphs (inbox-zero, morning-brief, ...) — RUNE.json
 ├── packages/
 │   ├── web/          # Next.js frontend

@@ -1,0 +1,17 @@
+{
+  "name": "xquik-tweet-scraper",
+  "displayName": "Xquik X Tweet Scraper",
+  "description": "Collect bounded public X posts, profiles, lists, threads, replies, quotes, retweeters, and favoriters through an Apify Actor.",
+  "vendor": "Xquik",
+  "emoji": "🐦",
+  "tagline": "Research public X content with explicit limits and source attribution.",
+  "category": "data",
+  "version": "1.0.0",
+  "verified": false,
+  "docsUrl": "https://apify.com/xquik/x-tweet-scraper",
+  "downloads": 0,
+  "stars": 0,
+  "skills": [
+    "xquik-tweet-research"
+  ]
+}
